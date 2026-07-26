@@ -87,8 +87,8 @@ While building this project, I learned:
 
 **Aryan Gupta**
 
-- GitHub: https://github.com/YOUR-USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- GitHub: https://github.com/officialsaryangupta-rgb/Quiz-App
+- LinkedIn: www.linkedin.com/in/aryan-gupta-it
 
 ---
 
