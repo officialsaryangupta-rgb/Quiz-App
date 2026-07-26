@@ -42,7 +42,7 @@ A responsive and interactive Quiz Application built using **HTML, CSS, and JavaS
 
 ## 📸 Screenshot
 
-![Quiz App](images/ss.png.jpeg)
+![Quiz App](images/ss1.jpeg)
 
 ## 📁 Project Structure
 
